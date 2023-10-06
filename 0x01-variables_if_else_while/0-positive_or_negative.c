@@ -2,11 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * Enrty level - main
+ * main - entry level
  *
- * Description: a orogram that sees if the number is positive or negative
+ * Description: true or false validation
  *
- * Return: 0 success
+ * Return: 0 (success)
 */
 
 int main(void)
